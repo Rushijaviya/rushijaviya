@@ -1,7 +1,8 @@
 ### Hi there 👋
-
+<img  align="center" src="https://github-readme-stats.vercel.app/api?username=Rushijaviya&&show_icons=true&count_private=true&hide_border=true&hide_title=true&theme=tokyonight" alt="Rushi's Github Stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushijaviya&layout=compact&hide_border=true&hide=CSS,HTML&theme=tokyonight" alt="Rushi's Github Stats">
+![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)
 <!--
-**Rushijaviya/rushijaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Rushijaviya/Rushijaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
