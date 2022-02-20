@@ -13,7 +13,10 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushijaviya&layout=compact&hide_border=true&hide=CSS,HTML&theme=tokyonight" alt="Rushi's Github Stats"></p> 
 
+<!--
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)
+-->
+
 <p align="center"> <img src=https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya> </p>
 <h1> Get in Touch! </h1>
 <p align="center">
