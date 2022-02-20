@@ -13,7 +13,7 @@
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushijaviya&layout=compact&hide_border=true&hide=CSS,HTML&theme=tokyonight" alt="Rushi's Github Stats"></p> 
 
-![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)
+<p align="center"> ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)</p>
 <!--
 **Rushijaviya/Rushijaviya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
