@@ -14,7 +14,7 @@
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushijaviya&layout=compact&hide_border=true&hide=CSS,HTML&theme=tokyonight" alt="Rushi's Github Stats"></p> 
 
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)
-
+<p align="center"> <img src=https://komarev.com/ghpvc/?username=manthanghasadiya alt=manthanghasadiya/> </p>
 <h1> Get in Touch! </h1>
 <p align="center">
 <a href="http://rushijaviya.me/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
