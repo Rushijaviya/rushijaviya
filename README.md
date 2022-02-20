@@ -18,7 +18,7 @@
 -->
 
 <p align="center"> <img src=https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya> </p>
-<h1> Get in Touch! </h1>
+<h2> Get in Touch! </h2>
 <p align="center">
 <a href="http://rushijaviya.me/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 <a href="https://t.me/rushi_javiya" target="_blank"><img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/></a>
