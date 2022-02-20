@@ -11,7 +11,9 @@
 
 <p align="center"> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Rushijaviya&&show_icons=true&count_private=true&hide_border=true&include_all_commits=true&hide_title=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushijaviya&layout=compact&hide_border=true&hide=CSS,HTML&theme=tokyonight" alt="Rushi's Github Stats"></p> 
+<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushijaviya&show_icons=true&layout=compact&hide_border=true&hide=CSS,HTML&hide_title=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
+
+<p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushijaviya&hide_border=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
 
 <!--
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)
