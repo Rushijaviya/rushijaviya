@@ -1,4 +1,4 @@
-### Hi there 👋
+<h1> Hi there 👋, I'm Rushi Javiya </h1>
 
 <h2> Github Stats </h2>
 <div>
