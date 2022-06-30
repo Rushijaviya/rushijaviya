@@ -16,6 +16,10 @@
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushijaviya&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
 
 <!--
+<p align="center"> <img src="https://count.getloli.com/get/@:Rushijaviya?theme=moebooru-h" alt=":name" /></p>
+-->
+
+<!--
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)
 -->
 
