@@ -16,14 +16,13 @@
 <p align="center"> <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rushijaviya&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
 
 <!--
-<p align="center"> <img src="https://count.getloli.com/get/@:Rushijaviya?theme=moebooru-h" alt=":name" /></p>
--->
-
-<!--
 ![visitor Count](https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya)
 -->
 
 <p align="center"> <img src=https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya> </p>
+
+<p align="center">This Month Visitors</p>
+<p align="center"> <img src="https://count.getloli.com/get/@:Rushijaviya?theme=moebooru-h" alt=":name" /></p>
 <h2> Get in Touch! </h2>
 <p align="center">
 <a href="http://rushijaviya.me/" target="_blank"><img alt="Discord" src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
