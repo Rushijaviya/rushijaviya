@@ -9,7 +9,7 @@
   </p>
 </div>
 
-<p align="center"> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Rushijaviya&show_icons=true&layout=compact&include_all_commits=true&count_private=true&hide_border=true&hide=CSS,HTML&hide_title=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
+<p align="center"> <img  align="center" src="https://github-readme-stats.vercel.app/api?username=Rushijaviya&show_icons=true&layout=compact&count_private=true&hide_border=true&hide=CSS,HTML&hide_title=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
 
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rushijaviya&show_icons=true&layout=compact&hide_border=true&hide=CSS,HTML&hide_title=true&include_all_commits=true&count_private=true&theme=tokyonight" alt="Rushi's Github Stats"></p> 
 
