@@ -6,7 +6,7 @@
 <div>
   <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img align="center" margin="5" src="https://github-profile-trophy.vercel.app/?username=Rushijaviya&column=8&margin-w=10&margin-h=10&include_all_commits=true&count_private=true&theme=tokyonight"/>
+    <img align="center" margin="5" src="https://github-profile-trophy.vercel.app/?username=Rushijaviya&column=5&margin-w=10&margin-h=10&include_all_commits=true&count_private=true&theme=tokyonight"/>
   </a>
   </p>
 </div>
