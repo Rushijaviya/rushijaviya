@@ -23,7 +23,6 @@
 -->
 
 <p align="center"> <img src=https://visitor-badge.laobi.icu/badge?page_id=Rushijaviya.Rushijaviya> </p>
-
 <p align="center">This Month Visitors</p>
 <p align="center"> <img src="https://count.getloli.com/get/@:Rushijaviya?theme=moebooru-h" alt=":name" /></p>
 
